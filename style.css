@@ -22,11 +22,18 @@ body{
 
 .cabecalho-imagem{
     height: 72px;
+    width: 72px;
+    padding: 0px;
+    max-width: 400px;
+    max-height: 400px;
+    min-width: 50px;
+    min-height: 50px;
 }
 
 .cabecalho-menu{
     display: inline-flex;
     gap: 32px;
+    padding-left: 17px;
 }
 
 .cabecalho-menu-item{
@@ -39,6 +46,7 @@ body{
 .conteudo{
     margin-bottom: 48px;
     border-top: 0.4px solid #FFF2E7;
+ 
 }
  
 .conteudo-principal{
@@ -58,6 +66,7 @@ body{
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 64px;
+    min-height: 40px;
     color: #FFF2E7;
 }
 
@@ -87,6 +96,10 @@ body{
 
 .conteudo-principal-imagem{
     height: 430px;
+    max-width: 400px;
+    max-height: 400px;
+    min-width: 50px;
+    min-height:50px ;
 }
 
 .conteudo-segundario{
