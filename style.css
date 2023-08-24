@@ -17,12 +17,12 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    padding: 24px;
+    padding: 30px;
 }
 
 .cabecalho-imagem{
-    height: 72px;
-    width: 72px;
+    height: 70px;
+    width: 78px;
     padding: 0px;
     max-width: 400px;
     max-height: 400px;
